@@ -78,3 +78,5 @@ Dashboard Views:
 
 •	Executive View: Early trend insights by revenue, top products/customers by revenue.
 
+Power BI dashboard : https://app.powerbi.com/view?r=eyJrIjoiYWY4NmYzMTktY2JiNS00Yzc4LWEwYTktMzMxMzNmNGRhNDlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
